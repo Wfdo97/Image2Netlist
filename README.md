@@ -1,6 +1,6 @@
 # Image-to-Netlist Conversion Pipeline
 
-This repository contains the implementation of an Image-to-Netlist Conversion pipeline. The tool extracts circuit layouts from image representations and generates a corresponding netlist. This is a proof of concept that can be improved and implemented in circuit analysis softwares. I can be beneficial for students and professionals in electronics and hardware design domains.
+This repository contains the implementation of an Image-to-Netlist Conversion pipeline. The tool extracts circuit layouts from image representations and generates a corresponding netlist. This is a proof of concept that can be improved and implemented in circuit analysis softwares. It can be beneficial for students and professionals in electronics and hardware design domains.
 <img src="images/img1_results.jpg" width="800"/>
 
 ## Table of Contents
