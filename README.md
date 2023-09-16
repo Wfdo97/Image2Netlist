@@ -15,10 +15,13 @@ As PCB designs and circuit layouts become increasingly intricate, it becomes ess
 
 ## Features
 
-1. **Image Pre-processing**: Remove the values to increase the clarity of input images for better conversion.
-2. **Component Detection**: Detects components like resistors, inductors, current sources, and voltage sources.
-3. **Routing Extraction**: Extracts routing information and connections between components.
-4. **Netlist Generation**: Outputs a SPICE-compatible netlist for simulations.
+### 1. **Image Pre-processing**: 
+- **Remove the values to increase the clarity of input images for better conversion**.
+<img src="images/img2_preprocessing.jpg" width="800"/>
+
+3. **Component Detection**: Detects components like resistors, inductors, current sources, and voltage sources.
+4. **Routing Extraction**: Extracts routing information and connections between components.
+5. **Netlist Generation**: Outputs a SPICE-compatible netlist for simulations.
 
 ## Installation
 
